@@ -1,12 +1,6 @@
 
-<head>
-    <meta charset="UTF-8">
-    <title>Index Page</title>
-    <css>
 
-
-        
-    </css>
-</head>
-
-<H2></H2>
+<H2>About</H2>
+<H2>Publications</H2>
+<H2>Projects</H2>
+<H2>CV</H2>
